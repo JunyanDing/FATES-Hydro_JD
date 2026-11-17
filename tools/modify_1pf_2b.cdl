@@ -1,0 +1,354 @@
+Creating Dimension: fates_NCWD=4
+Creating Dimension: fates_history_age_bins=7
+Creating Dimension: fates_history_coage_bins=2
+Creating Dimension: fates_history_height_bins=6
+Creating Dimension: fates_history_size_bins=13
+Creating Dimension: fates_hlm_pftno=14
+Creating Dimension: fates_hydr_organs=4
+Creating Dimension: fates_leafage_class=1
+Creating Dimension: fates_litterclass=6
+Creating Dimension: fates_pft=1
+Creating Dimension: fates_prt_organs=4
+Creating Dimension: fates_string_length=60
+Creating Variable:  fates_CWD_frac
+Creating Variable:  fates_alloc_storage_cushion
+Creating Variable:  fates_allom_agb1
+Creating Variable:  fates_allom_agb2
+Creating Variable:  fates_allom_agb3
+Creating Variable:  fates_allom_agb4
+Creating Variable:  fates_allom_agb_frac
+Creating Variable:  fates_allom_amode
+Creating Variable:  fates_allom_blca_expnt_diff
+Creating Variable:  fates_allom_cmode
+Creating Variable:  fates_allom_d2bl1
+Creating Variable:  fates_allom_d2bl2
+Creating Variable:  fates_allom_d2bl3
+Creating Variable:  fates_allom_d2ca_coefficient_max
+Creating Variable:  fates_allom_d2ca_coefficient_min
+Creating Variable:  fates_allom_d2h1
+Creating Variable:  fates_allom_d2h2
+Creating Variable:  fates_allom_d2h3
+Creating Variable:  fates_allom_dbh_maxheight
+Creating Variable:  fates_allom_fmode
+Creating Variable:  fates_allom_frbstor_repro
+Creating Variable:  fates_allom_hmode
+Creating Variable:  fates_allom_l2fr
+Creating Variable:  fates_allom_la_per_sa_int
+Creating Variable:  fates_allom_la_per_sa_slp
+Creating Variable:  fates_allom_lmode
+Creating Variable:  fates_allom_sai_scaler
+Creating Variable:  fates_allom_smode
+Creating Variable:  fates_allom_stmode
+Creating Variable:  fates_allom_zroot_k
+Creating Variable:  fates_allom_zroot_max_dbh
+Creating Variable:  fates_allom_zroot_max_z
+Creating Variable:  fates_allom_zroot_min_dbh
+Creating Variable:  fates_allom_zroot_min_z
+Creating Variable:  fates_base_mr_20
+Creating Variable:  fates_branch_turnover
+Creating Variable:  fates_c2b
+Creating Variable:  fates_canopy_closure_thresh
+Creating Variable:  fates_cohort_age_fusion_tol
+Creating Variable:  fates_cohort_size_fusion_tol
+Creating Variable:  fates_comp_excln
+Creating Variable:  fates_cwd_fcel
+Creating Variable:  fates_cwd_flig
+Creating Variable:  fates_dev_arbitrary
+Creating Variable:  fates_dev_arbitrary_pft
+Creating Variable:  fates_displar
+Creating Variable:  fates_eca_alpha_ptase
+Creating Variable:  fates_eca_decompmicc
+Creating Variable:  fates_eca_km_nh4
+Creating Variable:  fates_eca_km_no3
+Creating Variable:  fates_eca_km_p
+Creating Variable:  fates_eca_km_ptase
+Creating Variable:  fates_eca_lambda_ptase
+Creating Variable:  fates_eca_plant_escalar
+Creating Variable:  fates_eca_vmax_nh4
+Creating Variable:  fates_eca_vmax_no3
+Creating Variable:  fates_eca_vmax_p
+Creating Variable:  fates_eca_vmax_ptase
+Creating Variable:  fates_fire_FBD
+Creating Variable:  fates_fire_SAV
+Creating Variable:  fates_fire_active_crown_fire
+Creating Variable:  fates_fire_alpha_SH
+Creating Variable:  fates_fire_bark_scaler
+Creating Variable:  fates_fire_cg_strikes
+Creating Variable:  fates_fire_crown_depth_frac
+Creating Variable:  fates_fire_crown_kill
+Creating Variable:  fates_fire_drying_ratio
+Creating Variable:  fates_fire_durat_slope
+Creating Variable:  fates_fire_fdi_a
+Creating Variable:  fates_fire_fdi_alpha
+Creating Variable:  fates_fire_fdi_b
+Creating Variable:  fates_fire_fuel_energy
+Creating Variable:  fates_fire_low_moisture_Coeff
+Creating Variable:  fates_fire_low_moisture_Slope
+Creating Variable:  fates_fire_max_durat
+Creating Variable:  fates_fire_mid_moisture
+Creating Variable:  fates_fire_mid_moisture_Coeff
+Creating Variable:  fates_fire_mid_moisture_Slope
+Creating Variable:  fates_fire_min_moisture
+Creating Variable:  fates_fire_miner_damp
+Creating Variable:  fates_fire_miner_total
+Creating Variable:  fates_fire_nignitions
+Creating Variable:  fates_fire_part_dens
+Creating Variable:  fates_fire_threshold
+Creating Variable:  fates_fnrt_prof_a
+Creating Variable:  fates_fnrt_prof_b
+Creating Variable:  fates_fnrt_prof_mode
+Creating Variable:  fates_fr_fcel
+Creating Variable:  fates_fr_flab
+Creating Variable:  fates_fr_flig
+Creating Variable:  fates_grperc
+Creating Variable:  fates_history_ageclass_bin_edges
+Creating Variable:  fates_history_coageclass_bin_edges
+Creating Variable:  fates_history_height_bin_edges
+Creating Variable:  fates_history_sizeclass_bin_edges
+Creating Variable:  fates_hlm_pft_map
+Creating Variable:  fates_hydr_LWP_cr
+Creating Variable:  fates_hydr_PSU_vg_init
+Creating Variable:  fates_hydr_avuln_gs
+Creating Variable:  fates_hydr_avuln_node
+Creating Variable:  fates_hydr_epsil_node
+Creating Variable:  fates_hydr_fcap_node
+Creating Variable:  fates_hydr_frt_loss_coe
+Creating Variable:  fates_hydr_frt_loss_exp
+Creating Variable:  fates_hydr_frt_loss_salcr
+Creating Variable:  fates_hydr_frt_loss_salk
+Creating Variable:  fates_hydr_frt_loss_sata
+Creating Variable:  fates_hydr_frt_loss_se0
+Creating Variable:  fates_hydr_htftype_node
+Creating Variable:  fates_hydr_k_lwp
+Creating Variable:  fates_hydr_k_salex
+Creating Variable:  fates_hydr_kmax_node
+Creating Variable:  fates_hydr_kmax_rsurf1
+Creating Variable:  fates_hydr_kmax_rsurf2
+Creating Variable:  fates_hydr_organname_node
+Creating Variable:  fates_hydr_p50_gs
+Creating Variable:  fates_hydr_p50_node
+Creating Variable:  fates_hydr_p_taper
+Creating Variable:  fates_hydr_pinot_node
+Creating Variable:  fates_hydr_pitlp_node
+Creating Variable:  fates_hydr_psi0
+Creating Variable:  fates_hydr_psi_cr
+Creating Variable:  fates_hydr_psicap
+Creating Variable:  fates_hydr_resid_node
+Creating Variable:  fates_hydr_rfrac_stem
+Creating Variable:  fates_hydr_rs2
+Creating Variable:  fates_hydr_rt_exl
+Creating Variable:  fates_hydr_sigma_LWP
+Creating Variable:  fates_hydr_srl
+Creating Variable:  fates_hydr_stress_trim
+Creating Variable:  fates_hydr_thetas_node
+Creating Variable:  fates_hydr_vcmax_loss_sal_a
+Creating Variable:  fates_hydr_vcmax_loss_sal_m
+Creating Variable:  fates_hydr_vcmax_loss_sal_n
+Creating Variable:  fates_hydr_vg_alpha_node
+Creating Variable:  fates_hydr_vg_da_sal
+Creating Variable:  fates_hydr_vg_dn_sal
+Creating Variable:  fates_hydr_vg_m_node
+Creating Variable:  fates_hydr_vg_n_node
+Creating Variable:  fates_hydr_wetdays_thr
+Creating Variable:  fates_init_litter
+Creating Variable:  fates_leaf_c3psn
+Creating Variable:  fates_leaf_clumping_index
+Creating Variable:  fates_leaf_diameter
+Creating Variable:  fates_leaf_gs_max
+Creating Variable:  fates_leaf_gs_min
+Creating Variable:  fates_leaf_jmaxha
+Creating Variable:  fates_leaf_jmaxhd
+Creating Variable:  fates_leaf_jmaxse
+Creating Variable:  fates_leaf_long
+Creating Variable:  fates_leaf_slamax
+Creating Variable:  fates_leaf_slatop
+Creating Variable:  fates_leaf_stomatal_intercept
+Creating Variable:  fates_leaf_stomatal_model
+Creating Variable:  fates_leaf_stomatal_slope_ballberry
+Creating Variable:  fates_leaf_stomatal_slope_medlyn
+Creating Variable:  fates_leaf_stor_priority
+Creating Variable:  fates_leaf_vcmax25top
+Creating Variable:  fates_leaf_vcmaxha
+Creating Variable:  fates_leaf_vcmaxhd
+Creating Variable:  fates_leaf_vcmaxse
+Creating Variable:  fates_leaf_xl
+Creating Variable:  fates_lf_fcel
+Creating Variable:  fates_lf_flab
+Creating Variable:  fates_lf_flig
+Creating Variable:  fates_litterclass_name
+Creating Variable:  fates_logging_coll_under_frac
+Creating Variable:  fates_logging_collateral_frac
+Creating Variable:  fates_logging_dbhmax
+Creating Variable:  fates_logging_dbhmax_infra
+Creating Variable:  fates_logging_dbhmin
+Creating Variable:  fates_logging_direct_frac
+Creating Variable:  fates_logging_event_code
+Creating Variable:  fates_logging_export_frac
+Creating Variable:  fates_logging_mechanical_frac
+Creating Variable:  fates_maintresp_model
+Creating Variable:  fates_maintresp_reduction_curvature
+Creating Variable:  fates_maintresp_reduction_intercept
+Creating Variable:  fates_max_decomp
+Creating Variable:  fates_max_rec
+Creating Variable:  fates_mort_bmort
+Creating Variable:  fates_mort_disturb_frac
+Creating Variable:  fates_mort_flsc_threshold_cstarvation
+Creating Variable:  fates_mort_freezetol
+Creating Variable:  fates_mort_hf_flc_threshold
+Creating Variable:  fates_mort_hf_sm_threshold
+Creating Variable:  fates_mort_ip_age_senescence
+Creating Variable:  fates_mort_ip_size_senescence
+Creating Variable:  fates_mort_r_age_senescence
+Creating Variable:  fates_mort_r_size_senescence
+Creating Variable:  fates_mort_scalar_coldstress
+Creating Variable:  fates_mort_scalar_cstarvation
+Creating Variable:  fates_mort_scalar_hydrfailure
+Creating Variable:  fates_mort_understorey_death
+Creating Variable:  fates_nfix1
+Creating Variable:  fates_nfix2
+Creating Variable:  fates_nitr_store_ratio
+Creating Variable:  fates_patch_fusion_tol
+Creating Variable:  fates_pftname
+Creating Variable:  fates_phen_a
+Creating Variable:  fates_phen_b
+Creating Variable:  fates_phen_c
+Creating Variable:  fates_phen_chiltemp
+Creating Variable:  fates_phen_cold_size_threshold
+Creating Variable:  fates_phen_coldtemp
+Creating Variable:  fates_phen_doff_time
+Creating Variable:  fates_phen_drought_threshold
+Creating Variable:  fates_phen_evergreen
+Creating Variable:  fates_phen_mindayson
+Creating Variable:  fates_phen_ncolddayslim
+Creating Variable:  fates_phen_season_decid
+Creating Variable:  fates_phen_stem_drop_fraction
+Creating Variable:  fates_phen_stress_decid
+Creating Variable:  fates_phenflush_fraction
+Creating Variable:  fates_phos_store_ratio
+Creating Variable:  fates_photo_temp_acclim_timescale
+Creating Variable:  fates_photo_tempsens_model
+Creating Variable:  fates_prescribed_mortality_canopy
+Creating Variable:  fates_prescribed_mortality_understory
+Creating Variable:  fates_prescribed_npp_canopy
+Creating Variable:  fates_prescribed_npp_understory
+Creating Variable:  fates_prescribed_nuptake
+Creating Variable:  fates_prescribed_puptake
+Creating Variable:  fates_prescribed_recruitment
+Creating Variable:  fates_prt_alloc_priority
+Creating Variable:  fates_prt_nitr_stoich_p1
+Creating Variable:  fates_prt_nitr_stoich_p2
+Creating Variable:  fates_prt_organ_id
+Creating Variable:  fates_prt_organ_name
+Creating Variable:  fates_prt_phos_stoich_p1
+Creating Variable:  fates_prt_phos_stoich_p2
+Creating Variable:  fates_q10_froz
+Creating Variable:  fates_q10_mr
+Creating Variable:  fates_recruit_hgt_min
+Creating Variable:  fates_recruit_initd
+Creating Variable:  fates_recth_sal
+Creating Variable:  fates_recth_wt
+Creating Variable:  fates_rholnir
+Creating Variable:  fates_rholvis
+Creating Variable:  fates_rhosnir
+Creating Variable:  fates_rhosvis
+Creating Variable:  fates_root_long
+Creating Variable:  fates_sal_fid
+Creating Variable:  fates_sal_sid
+Creating Variable:  fates_seed_alloc
+Creating Variable:  fates_seed_alloc_mature
+Creating Variable:  fates_seed_dbh_repro_threshold
+Creating Variable:  fates_seed_decay_rate
+Creating Variable:  fates_seed_germination_rate
+Creating Variable:  fates_seed_suppl
+Creating Variable:  fates_senleaf_long_fdrought
+Creating Variable:  fates_smpsc
+Creating Variable:  fates_smpso
+Creating Variable:  fates_soil_salinity
+Creating Variable:  fates_taulnir
+Creating Variable:  fates_taulvis
+Creating Variable:  fates_tausnir
+Creating Variable:  fates_tausvis
+Creating Variable:  fates_theta_cj_c3
+Creating Variable:  fates_theta_cj_c4
+Creating Variable:  fates_trim_inc
+Creating Variable:  fates_trim_limit
+Creating Variable:  fates_turnover_carb_retrans
+Creating Variable:  fates_turnover_nitr_retrans
+Creating Variable:  fates_turnover_phos_retrans
+Creating Variable:  fates_turnover_retrans_mode
+Creating Variable:  fates_vai_top_bin_width
+Creating Variable:  fates_vai_width_increase_factor
+Creating Variable:  fates_wood_density
+Creating Variable:  fates_woody
+Creating Variable:  fates_z0mr
+Cloneing complete!
+replacing prior value of variable fates_alloc_storage_cushion, for PFT 1, which was 1.2, with new value of 1.5
+replacing file: /pscratch/sd/j/jdingoxy/E3SM_JDhydro_pheno/components/elm/src/external_models/fates/parameter_files/fates_params_dtrim_1pft_PNM_deciduous.nc
+replacing prior value of variable fates_mort_scalar_cstarvation, for PFT 1, which was 0.6, with new value of 0.02
+replacing file: /pscratch/sd/j/jdingoxy/E3SM_JDhydro_pheno/components/elm/src/external_models/fates/parameter_files/fates_params_dtrim_1pft_PNM_deciduous.nc
+replacing prior value of variable fates_mort_hf_flc_threshold, for PFT 1, which was 0.5, with new value of 0.5
+replacing file: /pscratch/sd/j/jdingoxy/E3SM_JDhydro_pheno/components/elm/src/external_models/fates/parameter_files/fates_params_dtrim_1pft_PNM_deciduous.nc
+replacing prior value of variable fates_allom_fmode, for PFT 1, which was 1.0, with new value of 1.0
+replacing file: /pscratch/sd/j/jdingoxy/E3SM_JDhydro_pheno/components/elm/src/external_models/fates/parameter_files/fates_params_dtrim_1pft_PNM_deciduous.nc
+replacing prior value of variable fates_hydr_srl, for PFT 1, which was 25.0, with new value of 60.0
+replacing file: /pscratch/sd/j/jdingoxy/E3SM_JDhydro_pheno/components/elm/src/external_models/fates/parameter_files/fates_params_dtrim_1pft_PNM_deciduous.nc
+replacing prior value of scalar variable fates_hydr_kmax_rsurf1, which was 20.0, with new value of 520.0
+replacing prior value of variable fates_leaf_stomatal_intercept, for PFT 1, which was 10000.0, with new value of 10000.0
+replacing file: /pscratch/sd/j/jdingoxy/E3SM_JDhydro_pheno/components/elm/src/external_models/fates/parameter_files/fates_params_dtrim_1pft_PNM_deciduous.nc
+replacing prior value of variable fates_leaf_vcmax25top, for PFT 1, which was [50.], with new value of 51.0
+replacing file: /pscratch/sd/j/jdingoxy/E3SM_JDhydro_pheno/components/elm/src/external_models/fates/parameter_files/fates_params_dtrim_1pft_PNM_deciduous.nc
+replacing prior value of variable fates_leaf_long, for PFT 1, which was [1.5], with new value of 2.5
+replacing file: /pscratch/sd/j/jdingoxy/E3SM_JDhydro_pheno/components/elm/src/external_models/fates/parameter_files/fates_params_dtrim_1pft_PNM_deciduous.nc
+replacing prior value of variable fates_leaf_slatop, for PFT 1, which was 0.012, with new value of 0.0126
+replacing file: /pscratch/sd/j/jdingoxy/E3SM_JDhydro_pheno/components/elm/src/external_models/fates/parameter_files/fates_params_dtrim_1pft_PNM_deciduous.nc
+replacing prior value of variable fates_mort_freezetol, for PFT 1, which was 2.5, with new value of -15.0
+replacing file: /pscratch/sd/j/jdingoxy/E3SM_JDhydro_pheno/components/elm/src/external_models/fates/parameter_files/fates_params_dtrim_1pft_PNM_deciduous.nc
+replacing prior value of variable fates_mort_bmort, for PFT 1, which was 0.014, with new value of 0.0002
+replacing file: /pscratch/sd/j/jdingoxy/E3SM_JDhydro_pheno/components/elm/src/external_models/fates/parameter_files/fates_params_dtrim_1pft_PNM_deciduous.nc
+replacing prior value of scalar variable fates_mort_understorey_death, which was 0.55983, with new value of 0.0
+replacing prior value of variable fates_seed_dbh_repro_threshold, for PFT 1, which was 150.0, with new value of 10.0
+replacing file: /pscratch/sd/j/jdingoxy/E3SM_JDhydro_pheno/components/elm/src/external_models/fates/parameter_files/fates_params_dtrim_1pft_PNM_deciduous.nc
+replacing prior value of variable fates_seed_alloc_mature, for PFT 1, which was 0.0, with new value of 0.0
+replacing file: /pscratch/sd/j/jdingoxy/E3SM_JDhydro_pheno/components/elm/src/external_models/fates/parameter_files/fates_params_dtrim_1pft_PNM_deciduous.nc
+replacing prior value of variable fates_recruit_hgt_min, for PFT 1, which was 1.3, with new value of 2.0
+replacing file: /pscratch/sd/j/jdingoxy/E3SM_JDhydro_pheno/components/elm/src/external_models/fates/parameter_files/fates_params_dtrim_1pft_PNM_deciduous.nc
+replacing prior value of variable fates_recruit_initd, for PFT 1, which was 0.2, with new value of 0.15
+replacing file: /pscratch/sd/j/jdingoxy/E3SM_JDhydro_pheno/components/elm/src/external_models/fates/parameter_files/fates_params_dtrim_1pft_PNM_deciduous.nc
+replacing prior value of variable fates_wood_density, for PFT 1, which was 0.7, with new value of 0.43
+replacing file: /pscratch/sd/j/jdingoxy/E3SM_JDhydro_pheno/components/elm/src/external_models/fates/parameter_files/fates_params_dtrim_1pft_PNM_deciduous.nc
+replacing prior value of variable fates_z0mr, for PFT 1, which was 0.055, with new value of 0.025
+replacing file: /pscratch/sd/j/jdingoxy/E3SM_JDhydro_pheno/components/elm/src/external_models/fates/parameter_files/fates_params_dtrim_1pft_PNM_deciduous.nc
+replacing prior value of variable fates_hydr_htftype_node, which was [2. 2. 2. 2.], with new value of [2. 2. 2. 2.]
+replacing file: /pscratch/sd/j/jdingoxy/E3SM_JDhydro_pheno/components/elm/src/external_models/fates/parameter_files/fates_params_dtrim_1pft_PNM_deciduous.nc
+replacing prior value of variable fates_fnrt_prof_mode, for PFT 1, which was 3.0, with new value of 3.0
+replacing file: /pscratch/sd/j/jdingoxy/E3SM_JDhydro_pheno/components/elm/src/external_models/fates/parameter_files/fates_params_dtrim_1pft_PNM_deciduous.nc
+replacing prior value of variable fates_hydr_thetas_node, for PFT 1, which was [0.65 0.65 0.65 0.75], with new value of [0.72078 0.72078 0.72078 0.72078]
+replacing file: /pscratch/sd/j/jdingoxy/E3SM_JDhydro_pheno/components/elm/src/external_models/fates/parameter_files/fates_params_dtrim_1pft_PNM_deciduous.nc
+replacing prior value of variable fates_hydr_resid_node, for PFT 1, which was [0.16 0.21 0.21 0.11], with new value of [0.02 0.12 0.12 0.12]
+replacing file: /pscratch/sd/j/jdingoxy/E3SM_JDhydro_pheno/components/elm/src/external_models/fates/parameter_files/fates_params_dtrim_1pft_PNM_deciduous.nc
+replacing prior value of variable fates_hydr_pinot_node, for PFT 1, which was [-1.465984 -1.22807  -1.22807  -1.043478], with new value of -1.26
+replacing file: /pscratch/sd/j/jdingoxy/E3SM_JDhydro_pheno/components/elm/src/external_models/fates/parameter_files/fates_params_dtrim_1pft_PNM_deciduous.nc
+replacing prior value of variable fates_prt_nitr_stoich_p1, for PFT 1, which was [3.3e-02 2.4e-02 1.0e-08 4.7e-03], with new value of [1.0e-02 1.0e-03 1.0e-08 4.7e-03]
+replacing file: /pscratch/sd/j/jdingoxy/E3SM_JDhydro_pheno/components/elm/src/external_models/fates/parameter_files/fates_params_dtrim_1pft_PNM_deciduous.nc
+replacing prior value of variable fates_fnrt_prof_a, for PFT 1, which was 7.0, with new value of 0.6
+replacing file: /pscratch/sd/j/jdingoxy/E3SM_JDhydro_pheno/components/elm/src/external_models/fates/parameter_files/fates_params_dtrim_1pft_PNM_deciduous.nc
+replacing prior value of variable fates_fnrt_prof_b, for PFT 1, which was 1.0, with new value of 1.0
+replacing file: /pscratch/sd/j/jdingoxy/E3SM_JDhydro_pheno/components/elm/src/external_models/fates/parameter_files/fates_params_dtrim_1pft_PNM_deciduous.nc
+replacing prior value of variable fates_hydr_p50_gs, for PFT 1, which was -1.5, with new value of -3.0
+replacing file: /pscratch/sd/j/jdingoxy/E3SM_JDhydro_pheno/components/elm/src/external_models/fates/parameter_files/fates_params_dtrim_1pft_PNM_deciduous.nc
+replacing prior value of variable fates_leaf_gs_max, for PFT 1, which was 160000.0, with new value of 500000.0
+replacing file: /pscratch/sd/j/jdingoxy/E3SM_JDhydro_pheno/components/elm/src/external_models/fates/parameter_files/fates_params_dtrim_1pft_PNM_deciduous.nc
+replacing prior value of variable fates_leaf_gs_min, for PFT 1, which was 10000.0, with new value of 9080.0
+replacing file: /pscratch/sd/j/jdingoxy/E3SM_JDhydro_pheno/components/elm/src/external_models/fates/parameter_files/fates_params_dtrim_1pft_PNM_deciduous.nc
+replacing prior value of variable fates_hydr_kmax_node, for PFT 1, which was [-999.    3. -999. -999.], with new value of 4.34
+replacing file: /pscratch/sd/j/jdingoxy/E3SM_JDhydro_pheno/components/elm/src/external_models/fates/parameter_files/fates_params_dtrim_1pft_PNM_deciduous.nc
+replacing prior value of variable fates_hydr_avuln_gs, for PFT 1, which was 2.5, with new value of 3.0
+replacing file: /pscratch/sd/j/jdingoxy/E3SM_JDhydro_pheno/components/elm/src/external_models/fates/parameter_files/fates_params_dtrim_1pft_PNM_deciduous.nc
+replacing prior value of variable fates_hydr_vg_alpha_node, for PFT 1, which was [0.0005 0.0005 0.0005 0.0005], with new value of 0.2151
+replacing file: /pscratch/sd/j/jdingoxy/E3SM_JDhydro_pheno/components/elm/src/external_models/fates/parameter_files/fates_params_dtrim_1pft_PNM_deciduous.nc
+replacing prior value of variable fates_hydr_vg_m_node, for PFT 1, which was [0.5 0.5 0.5 0.5], with new value of 0.3819
+replacing file: /pscratch/sd/j/jdingoxy/E3SM_JDhydro_pheno/components/elm/src/external_models/fates/parameter_files/fates_params_dtrim_1pft_PNM_deciduous.nc
+replacing prior value of variable fates_hydr_vg_n_node, for PFT 1, which was [2. 2. 2. 2.], with new value of 4.893
+replacing file: /pscratch/sd/j/jdingoxy/E3SM_JDhydro_pheno/components/elm/src/external_models/fates/parameter_files/fates_params_dtrim_1pft_PNM_deciduous.nc
+replacing prior value of variable fates_hydr_k_lwp, for PFT 1, which was 0.0, with new value of 3.0
+replacing file: /pscratch/sd/j/jdingoxy/E3SM_JDhydro_pheno/components/elm/src/external_models/fates/parameter_files/fates_params_dtrim_1pft_PNM_deciduous.nc
